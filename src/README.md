@@ -31,3 +31,9 @@
 - For new changes `git add .`   OR `git add path/to/file`
 - `git commit -m "new commit message"` 
 - `git push`
+
+
+# Idea
+
+- This is based on the idea of WWE NEWS. Some writer will give the content to this website and the content is shown to all the readers.
+- Here website will have a fixed structure. The content is what makes the website up to date. 
